@@ -38,7 +38,7 @@ To install the extension in Chrome:
 
 1. **Clone or Download the Repository:**  
    bash
-   git clone https://github.com/yourusername/instagram-video-rotator.git
+   git clone https://github.com/abdelhak101/instagram-video-rotator.git
    
 2. **Load the Extension in Chrome:**  
    - Open [chrome://extensions/](chrome://extensions/) in your browser.
