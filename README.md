@@ -16,13 +16,21 @@ Instagram Video Rotator is a lightweight Chrome extension that injects a button 
 ## Project Structure
 
 instagram-video-rotator/
+
 ├── manifest.json       # Extension configuration file (Manifest V3)
+
 ├── content.js          # Content script that adds the button and handles the rotation effect
+
 ├── icons/
+
 │   ├── icon16.png      # Extension icon (16x16)
+
 │   ├── icon48.png      # Extension icon (48x48)
+
 │   └── icon128.png     # Extension icon (128x128)
+
 └── logo.svg            # SVG logo used for generating the PNG icons
+
 
 ## Installation
 
